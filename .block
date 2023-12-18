@@ -1,0 +1,4 @@
+license: gpl-3.0
+height: 600
+border: no
+redirect: https://beta.observablehq.com/@mbostock/d3-choropleth
